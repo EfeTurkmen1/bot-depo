@@ -85,4 +85,4 @@ async def mem(ctx):
    # Daha sonra bu dosyayı bir parametre olarak gönderebiliriz!
     await ctx.send(file=picture)
 
-bot.run("MTE5ODMzMjIwMzczODg1NzU1Mg.G_J5qZ.nJZTtpIktJ7W_3aT0Ou3A0ukehsMzil6MLlksI")
+bot.run("token")
